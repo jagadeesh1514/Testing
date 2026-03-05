@@ -12,7 +12,8 @@ public class Api_testing{
          given().baseUri("https://dotesthere.com/api")
                 .header("Content-Type", "application/json")
                 .when().get("/users/1")
-                .then().statusCode(200).contentType().testhdclear;
+                .then().statusCode(200).contentType().testhdclear.gcgvc;
+                .then().statusCode(200).contentType().testhdclear.main ;
         System.out.println("Test");
 
     }
