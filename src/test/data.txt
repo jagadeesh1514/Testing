@@ -1,0 +1,7 @@
+{
+      "id": 2,
+      "email": "janet.weaver@dotesthere.com",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://dotesthere.com/img/faces/2-image.jpg"
+    }
