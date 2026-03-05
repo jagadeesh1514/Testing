@@ -12,7 +12,7 @@ public class Api_testing{
          given().baseUri("https://dotesthere.com/api")
                 .header("Content-Type", "application/json")
                 .when().get("/users/1")
-                .then().statusCode(200);
+                .then().statusCode(200).contentType();
         System.out.println("Test");
 
     }
